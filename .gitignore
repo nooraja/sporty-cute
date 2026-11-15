@@ -1,0 +1,6 @@
+.DS_Store
+.opencode/
+graphify-out/
+xcuserdata/
+DerivedData/
+*.xcuserstate
